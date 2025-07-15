@@ -1,0 +1,20 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    line-height: 1.5;
+  }
+  
+  .nav-logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+  }
+  
+  .nav-item:hover,
+  .nav-item:focus,
+  .button-main:hover,
+  .button-main:focus,
+  .nav-address-item:hover,
+  .nav-address-item:focus {
+    color: #404BBF;
+  }
+  
