@@ -56,6 +56,10 @@ body {
   color: #404bbf;
 }
 
+.button-main:hover,
+.button-main:focus{
+  color: #404bbf;
+}
 .section-1 {
   background-color: #2e2f42;
 }
