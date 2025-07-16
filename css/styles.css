@@ -28,7 +28,6 @@ body {
 
 .nav-address {
   font-style: normal;
-
 }
 
 .nav-address-item{
@@ -49,8 +48,6 @@ body {
 
 .nav-item:hover,
 .nav-item:focus,
-.button-main:hover,
-.button-main:focus,
 .nav-address-item:hover,
 .nav-address-item:focus {
   color: #404bbf;
