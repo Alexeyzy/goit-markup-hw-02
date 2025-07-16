@@ -55,7 +55,7 @@ body {
 
 .button-main:hover,
 .button-main:focus{
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .section-1 {
   background-color: #2e2f42;
