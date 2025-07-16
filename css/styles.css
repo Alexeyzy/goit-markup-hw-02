@@ -28,6 +28,23 @@ body {
 
 .nav-address {
   font-style: normal;
+
+}
+
+.nav-address-item{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455 ;
+}
+
+.nav-item {
+  font-weight: 500;
+  color: var(--color-434455);
+}
+
+.nav-item-active {
+  color: #2e2f42;
 }
 
 .nav-item:hover,
@@ -43,7 +60,7 @@ body {
   background-color: #2e2f42;
 }
 
-.section-1 h1 {
+.section-1-h1 {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -51,28 +68,27 @@ body {
   color: var(--color-ffffff);
 }
 .button-main {
-  background-color: var(--color-ffffff);
+  background-color: #4D5AE5; 
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   font-size: 16px;
-  color: var(--color-4d5ae5);
+  color: #ffffff;
   cursor: pointer;
 }
 
-.button-main:hover,
-.button-main:focus {
-  background-color: #404bbf;
-}
-
-/* section-2 */
-
-
-/* section-3 */
-.section-3 {
+.section-3{
   background-color: #f4f4fd;
 }
-.section-h2 {
+/* .section-3-ul {
+  background-color: #FFFFFF;
+} */
+.section-3-li {
+  background-color: #FFFFFF;
+}
+.section-3-h2,
+.section-4-h2{
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
